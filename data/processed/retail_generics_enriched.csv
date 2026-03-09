@@ -1,0 +1,572 @@
+generic_id,generic_name,therapeutic_class,prescription_required,cold_storage_required,gst_percentage
+1,Amoxycillin,antibiotic,True,False,12
+2,Azithromycin,antibiotic,True,False,12
+3,Ambroxol,bronchodilator,False,False,5
+4,Fexofenadine,antihistamine,False,False,5
+5,Pheniramine,other,False,False,5
+6,Montelukast,antihistamine,False,False,5
+7,Hydroxyzine,other,False,False,5
+8,Phenylephrine,antihistamine,False,False,5
+9,Ranitidine,antacid,False,False,5
+10,Phenylephrine,corticosteroid,True,False,12
+11,Clonidine,other,False,False,5
+12,Promethazine,other,False,False,5
+13,Albendazole,other,False,False,5
+14,Salbutamol,bronchodilator,False,False,5
+15,Alprazolam,other,False,False,5
+16,Aceclofenac,antacid,False,False,5
+17,Lorazepam,other,False,False,5
+18,Domperidone,antacid,False,False,5
+19,Spironolactone,diuretic,False,False,5
+20,Amlodipine,antihypertensive,False,False,5
+21,Ticagrelor,other,False,False,5
+22,Disodium Hydrogen Citrate,other,False,False,5
+23,Aceclofenac,analgesic,False,False,5
+24,Alfuzosin,other,False,False,5
+25,Vitamin D3,other,False,False,5
+26,Camylofin,analgesic,False,False,5
+27,Chlorpheniramine Maleate,antihistamine,False,False,5
+28,Acebrophylline,other,False,False,5
+29,Erythromycin,other,False,False,5
+30,Guaifenesin,bronchodilator,False,False,5
+31,Lidocaine,other,False,False,5
+33,Atorvastatin,other,False,False,5
+34,Sacubitril,other,False,False,5
+35,Amitriptyline,antidepressant,False,False,5
+36,Isoniazid,other,False,False,5
+37,Nimesulide,analgesic,False,False,5
+38,Amikacin,other,False,False,5
+39,Vitamin A,other,False,False,5
+40,Azathioprine,other,False,False,5
+41,Glimepiride,antidiabetic,True,False,12
+42,Acenocoumarol,other,False,False,5
+43,Nitroglycerin,other,False,False,5
+45,Levosalbutamol,corticosteroid,True,False,12
+47,Acyclovir,other,False,False,5
+48,Cyproheptadine,other,False,False,5
+49,Ambroxol,other,False,False,5
+50,Acotiamide,other,False,False,5
+51,Anti Rh D Immunoglobulin,other,False,False,5
+52,Cetirizine,antihistamine,False,False,5
+53,Ampicillin,other,False,False,5
+54,Furosemide,diuretic,False,False,5
+57,Memantine,other,False,False,5
+58,Empagliflozin,antidiabetic,True,False,12
+59,Avanafil,other,False,False,5
+60,Paracetamol,analgesic,False,False,5
+61,Hydrochlorothiazide,diuretic,False,False,5
+62,Diosmin,other,False,False,5
+63,Fluconazole,other,False,False,5
+64,Amantadine,other,False,False,5
+65,Thiocolchicoside,analgesic,False,False,5
+66,Adrenaline,other,False,False,5
+67,Paracetamol/Acetaminophen,analgesic,False,False,5
+68,Bromhexine,other,False,False,5
+71,Camphor,other,False,False,5
+72,Oseltamivir Phosphate,other,False,False,5
+73,Ambroxol,antihistamine,False,False,5
+75,Atropine,other,False,False,5
+76,Testosterone,other,False,False,5
+77,Sildenafil,other,False,False,5
+79,Atenolol,antihypertensive,False,False,5
+80,Mifepristone,other,False,False,5
+81,Apremilast,other,False,False,5
+82,Insulin Glulisine,other,False,True,18
+83,Telmisartan,antihypertensive,False,False,5
+84,Loperamide,other,False,False,5
+85,S-Amlodipine,antihypertensive,False,False,5
+86,Guaifenesin,other,False,False,5
+87,Sitagliptin,antidiabetic,True,False,12
+88,Methylcobalamin,other,False,False,5
+89,Ofloxacin,other,False,False,5
+90,Clindamycin,other,False,False,5
+91,Aripiprazole,other,False,False,5
+92,Loteprednol etabonate,other,False,False,5
+93,Melatonin,other,False,False,5
+94,Levocetirizine,antihistamine,False,False,5
+95,Carboxymethylcellulose,other,False,False,5
+96,Cilnidipine,other,False,False,5
+98,Apixaban,other,False,False,5
+99,Bilastine,other,False,False,5
+100,Acamprosate,other,False,False,5
+101,Aluminium Hydroxide,other,False,False,5
+102,Moxifloxacin,corticosteroid,True,False,12
+105,Albumin,other,False,False,5
+106,Caffeine,analgesic,False,False,5
+107,Choline fenofibrate,other,False,False,5
+108,Moxifloxacin,other,False,False,5
+109,Ursodeoxycholic Acid,other,False,False,5
+110,Glycopyrrolate,other,False,False,5
+112,Methylphenidate,other,False,False,5
+113,Ivermectin,other,False,False,5
+114,Alendronic Acid,other,False,False,5
+115,Anastrozole,other,False,False,5
+116,Donepezil,other,False,False,5
+117,Prochlorperazine,other,False,False,5
+118,Ciprofloxacin,antibiotic,True,False,12
+119,Drotaverine,analgesic,False,False,5
+120,Alfacalcidol,other,False,False,5
+122,Brinzolamide,other,False,False,5
+123,Rifampicin,other,False,False,5
+124,Dihydralazine,other,False,False,5
+125,Calcium Carbonate,other,False,False,5
+126,Standard Cobra Venom,other,False,False,5
+127,Acitretin,other,False,False,5
+128,Brimonidine,other,False,False,5
+129,Isotretinoin,other,False,False,5
+132,Aspirin,other,False,False,5
+133,Sodium Chloride,other,False,False,5
+135,Ketorolac,other,False,False,5
+136,Amitriptyline,antacid,False,False,5
+137,Metadoxine,other,False,False,5
+139,Sodium Hyaluronate,other,False,False,5
+140,Aprepitant,other,False,False,5
+141,Ornidazole,other,False,False,5
+142,Alpha Ketoanalogue,other,False,False,5
+143,Diloxanide,other,False,False,5
+144,Metformin,antidiabetic,True,False,12
+145,Losartan,antihypertensive,False,False,5
+146,Azilsartan medoxomil,other,False,False,5
+147,Cefuroxime,other,False,False,5
+148,Streptomycin,other,False,False,5
+149,Etizolam,other,False,False,5
+150,Alprazolam,antidepressant,False,False,5
+151,Pregabalin,other,False,False,5
+153,Flupenthixol,other,False,False,5
+154,Hydrocortisone,other,False,False,5
+155,Epalrestat,other,False,False,5
+156,Itraconazole,other,False,False,5
+158,Adenosine,other,False,False,5
+159,Levofloxacin,other,False,False,5
+160,Camylofin,other,False,False,5
+161,Progesterone,other,False,False,5
+162,Bupivacaine,other,False,False,5
+163,Edaravone,other,False,False,5
+164,Nepafenac,other,False,False,5
+165,Dulaglutide,other,False,False,5
+166,Rosuvastatin,other,False,False,5
+168,Imipramine,other,False,False,5
+169,Hydroxypropylmethylcellulose,other,False,False,5
+170,Recombinant Human Erythropoietin Alfa,other,False,False,5
+171,Carbimazole,other,False,False,5
+173,Sodium Bicarbonate,other,False,False,5
+174,Lidocaine,corticosteroid,True,False,12
+175,Clonazepam,antidepressant,False,False,5
+176,Levosalbutamol,bronchodilator,False,False,5
+177,Alcaftadine,other,False,False,5
+178,Dicyclomine,other,False,False,5
+179,Clonazepam,other,False,False,5
+180,Etofylline,bronchodilator,False,False,5
+182,Torasemide,other,False,False,5
+183,Cefixime,antibiotic,True,False,12
+185,Alogliptin,other,False,False,5
+186,Tranexamic Acid,other,False,False,5
+187,Bevacizumab,other,False,False,5
+188,Ciclosporin,other,False,False,5
+189,L-Ornithine L-Aspartate,other,False,False,5
+190,Pseudoephedrine,other,False,False,5
+191,Aminophylline,other,False,False,5
+192,Ambrisentan,other,False,False,5
+193,Clonidine,diuretic,False,False,5
+194,Azelastine,other,False,False,5
+195,Diltiazem,other,False,False,5
+196,Azelnidipine,other,False,False,5
+197,Disulfiram,other,False,False,5
+198,Teneligliptin,other,False,False,5
+199,Gabapentin,other,False,False,5
+200,Vitamin E,other,False,False,5
+201,Agomelatine,other,False,False,5
+202,Piroxicam,other,False,False,5
+203,Loratadine,other,False,False,5
+205,Aztreonam,other,False,False,5
+206,Ondansetron,other,False,False,5
+207,Pancreatin,other,False,False,5
+208,Formoterol,other,False,False,5
+209,Armodafinil,other,False,False,5
+210,Benfotiamine,other,False,False,5
+212,Polidocanol,other,False,False,5
+214,Perampanel,other,False,False,5
+215,Methyldopa,other,False,False,5
+216,Silodosin,other,False,False,5
+217,Potassium Chloride,other,False,False,5
+219,Sevelamer,other,False,False,5
+220,Drotaverine,other,False,False,5
+222,Amisulpride,other,False,False,5
+223,Naphazoline,antihistamine,False,False,5
+224,Racecadotril,other,False,False,5
+226,Allylestrenol,other,False,False,5
+227,Isosorbide Dinitrate,other,False,False,5
+228,Cadexomer Iodine,other,False,False,5
+229,Acetic acid,other,False,False,5
+230,Midodrine,other,False,False,5
+231,Abiraterone Acetate,other,False,False,5
+233,Doxorubicin,other,False,False,5
+234,Romiplostim,other,False,False,5
+235,Trypsin,other,False,False,5
+236,Fenofibrate,other,False,False,5
+237,Adalimumab,other,False,False,5
+238,Alpha glycerylphosphorylcholine,other,False,False,5
+239,Atracurium,other,False,False,5
+240,Metamizole,other,False,False,5
+241,Ceftriaxone,antibiotic,True,False,12
+242,Tetrabenazine,other,False,False,5
+243,Citric Acid,other,False,False,5
+244,Atomoxetine,other,False,False,5
+245,Magaldrate,other,False,False,5
+246,Gliclazide,other,False,False,5
+247,Diclofenac,analgesic,False,False,5
+248,Doxylamine,other,False,False,5
+249,Bromelain,other,False,False,5
+250,Alprostadil,other,False,False,5
+251,Dabigatran Etexilate,other,False,False,5
+253,Sucralfate,other,False,False,5
+254,Acetazolamide,other,False,False,5
+255,Estradiol,other,False,False,5
+256,Desloratadine,other,False,False,5
+258,Hydroxyprogesterone,other,False,False,5
+259,Ibuprofen,analgesic,False,False,5
+260,Isoxsuprine,other,False,False,5
+262,Amphotericin B,other,False,False,5
+263,Artesunate,other,False,False,5
+264,Trimetazidine,other,False,False,5
+265,Vildagliptin,other,False,False,5
+266,Amiodarone,other,False,False,5
+267,Caffeine,other,False,False,5
+268,Nandrolone Decanoate,other,False,False,5
+269,Metronidazole,other,False,False,5
+270,Oxazepam,other,False,False,5
+271,Liposomal Amphotericin B,other,False,False,5
+273,Clozapine,other,False,False,5
+274,Timolol,other,False,False,5
+276,Salmeterol,other,False,False,5
+278,Azacitidine,other,False,False,5
+280,Metoprolol Succinate,other,False,False,5
+281,Pantoprazole,antacid,False,False,5
+282,Cefdinir,other,False,False,5
+283,Darbepoetin alfa,other,False,True,18
+284,Gabapentin,antidepressant,False,False,5
+285,Terbutaline,bronchodilator,False,False,5
+286,Buclizine,other,False,False,5
+287,Alogliptin,antidiabetic,True,False,12
+288,Levosulpiride,antacid,False,False,5
+289,Rabeprazole,antacid,False,False,5
+290,Fondaparinux,other,False,False,5
+291,Dicyclomine,antacid,False,False,5
+292,Deferasirox,other,False,False,5
+293,Thiamine,other,False,False,5
+294,Almotriptan,other,False,False,5
+295,Cefepime,other,False,False,5
+296,Pralidoxime,other,False,False,5
+297,Naproxen,other,False,False,5
+298,Doxycycline,other,False,False,5
+299,Penicillamine,other,False,False,5
+300,Clomipramine,other,False,False,5
+301,Phenylephrine,other,False,False,5
+302,Domperidone,analgesic,False,False,5
+303,Norepinephrine,other,False,False,5
+307,Ferrous Ascorbate,other,False,False,5
+308,Beclometasone,corticosteroid,True,False,12
+310,Dicyclomine,analgesic,False,False,5
+312,Deflazacort,other,False,False,5
+313,Norfloxacin,other,False,False,5
+314,Leflunomide,other,False,False,5
+315,Glucosamine,other,False,False,5
+317,Chondroitin,other,False,False,5
+318,Enzalutamide,other,False,False,5
+321,Chlordiazepoxide,other,False,False,5
+322,Prednisolone,corticosteroid,True,False,12
+323,Caffeine,antihistamine,False,False,5
+324,Olopatadine,other,False,False,5
+325,Cetrorelix,other,False,False,5
+327,Apomorphine,other,False,False,5
+328,Bromfenac,other,False,False,5
+329,Chlorzoxazone,analgesic,False,False,5
+330,Mirabegron,other,False,False,5
+331,Netupitant,other,False,False,5
+332,Hydroxychloroquine,other,False,False,5
+334,Entacapone,other,False,False,5
+335,L-Methyl Folate,other,False,False,5
+336,Nicorandil,other,False,False,5
+337,Ketamine,other,False,False,5
+338,Lurasidone,other,False,False,5
+340,Tiotropium,other,False,False,5
+344,Serratiopeptidase,other,False,False,5
+345,Betamethasone,other,False,False,5
+346,Cefpodoxime Proxetil,other,False,False,5
+347,Xylometazoline,other,False,False,5
+349,Octreotide acetate,other,False,False,5
+350,Furazolidone,other,False,False,5
+351,Lamivudine,other,False,False,5
+352,Ceftazidime,other,False,False,5
+353,Gliclazide,antidiabetic,True,False,12
+354,Seratrodast,other,False,False,5
+355,Escitalopram Oxalate,antidepressant,False,False,5
+356,Norethisterone,other,False,False,5
+357,Ilaprazole,other,False,False,5
+359,S-Adenosyl L-Methoinine Disulfate Tosylate,other,False,False,5
+360,Omeprazole,antacid,False,False,5
+362,Ibuprofen,other,False,False,5
+364,Guaifenesin,antihistamine,False,False,5
+365,Sodium Picosulfate,other,False,False,5
+366,Artemether,other,False,False,5
+367,Abacavir,other,False,False,5
+368,Zoledronic acid,other,False,False,5
+369,Fluconazole,antibiotic,True,False,12
+370,Tricholine Citrate,other,False,False,5
+371,Diphtheria Toxoid,other,False,False,5
+373,Haloperidol,other,False,False,5
+376,Everolimus,other,False,False,5
+377,Tamsulosin,other,False,False,5
+378,Amoxapine,other,False,False,5
+379,Letrozole,other,False,False,5
+380,Alpha Lipoic Acid,other,False,False,5
+382,Tacrolimus,other,False,False,5
+384,Gatifloxacin,other,False,False,5
+385,Acarbose,other,False,False,5
+386,Bromhexine,antihistamine,False,False,5
+387,Voglibose,other,False,False,5
+389,Oxetacaine,other,False,False,5
+391,Divalproex,other,False,False,5
+393,Calcitriol,other,False,False,5
+394,Afatinib dimaleate,other,False,False,5
+396,Meropenem,other,False,False,5
+397,Clarithromycin,other,False,False,5
+398,Sultamicillin tosilate,other,False,False,5
+399,Reserpine,other,False,False,5
+400,Oxyphenonium,other,False,False,5
+403,Ranolazine,other,False,False,5
+404,Favipiravir,other,False,False,5
+405,Piperazine,other,False,False,5
+407,Freeze-dried Live Attenuated Hepatitis A Vaccine,other,False,True,18
+408,Imatinib mesylate,other,False,False,5
+409,Famotidine,other,False,False,5
+410,Tadalafil,other,False,False,5
+411,Arsenic Trioxide,other,False,False,5
+412,Dexchlorpheniramine,antihistamine,False,False,5
+413,Iron,other,False,False,5
+415,Anidulafungin,other,False,False,5
+416,Vitamin C,other,False,False,5
+417,Finasteride,other,False,False,5
+418,Paroxetine,other,False,False,5
+419,Lysine,other,False,False,5
+420,Methylprednisolone,corticosteroid,True,False,12
+421,Betahistine,other,False,False,5
+424,Biotin,other,False,False,5
+425,Cefadroxil,other,False,False,5
+427,Phenylpropanolamine,antihistamine,False,False,5
+428,Labetalol,other,False,False,5
+429,Bicalutamide,other,False,False,5
+431,Roxithromycin,other,False,False,5
+432,Ertapenem,other,False,False,5
+433,Cyclophosphamide,other,False,False,5
+436,Ofloxacin,corticosteroid,True,False,12
+437,Lorcaserin,other,False,False,5
+438,Acetylcysteine,other,False,False,5
+439,Olmesartan Medoxomil,antihypertensive,False,False,5
+440,Mefenamic Acid,analgesic,False,False,5
+441,Etoricoxib,other,False,False,5
+442,Snake Venom Antiserum,other,False,False,5
+443,Cefalexin,other,False,False,5
+444,Clopidogrel,other,False,False,5
+445,Tramadol,other,False,False,5
+446,Paradichlorobenzene,other,False,False,5
+447,Tramadol,analgesic,False,False,5
+450,Terbinafine,other,False,False,5
+451,Levofloxacin,antibiotic,True,False,12
+452,Arteether,other,False,False,5
+454,Lansoprazole,other,False,False,5
+455,Diacerein,other,False,False,5
+456,Triamcinolone Acetonide,other,False,False,5
+457,Diphenhydramine,other,False,False,5
+458,Taurine,other,False,False,5
+461,Irbesartan,other,False,False,5
+462,Cytarabine,other,False,False,5
+463,Flupirtine,other,False,False,5
+464,Solifenacin,other,False,False,5
+465,Flupirtine,analgesic,False,False,5
+466,Heparin,other,False,False,5
+467,Tapentadol,other,False,False,5
+468,Ammonium Chloride,antihistamine,False,False,5
+469,Metoclopramide,other,False,False,5
+470,Carbamazepine,other,False,False,5
+472,Propranolol,other,False,False,5
+477,Atazanavir,other,False,False,5
+478,Citicoline,other,False,False,5
+479,Allopurinol,other,False,False,5
+480,Trihexyphenidyl,other,False,False,5
+482,Dutasteride,other,False,False,5
+483,Alpha-Beta Arteether,other,False,False,5
+484,Quetiapine,other,False,False,5
+485,Chloramphenicol,corticosteroid,True,False,12
+486,Flupenthixol,antidepressant,False,False,5
+488,Sparfloxacin,other,False,False,5
+489,Ketotifen,other,False,False,5
+491,Nitrofurantoin,other,False,False,5
+492,Dasatinib,other,False,False,5
+493,Paclitaxel,other,False,False,5
+494,Ammonium Chloride,other,False,False,5
+496,Theophylline,other,False,False,5
+497,Salbutamol,corticosteroid,True,False,12
+498,Gentamicin,other,False,False,5
+501,Nizatidine,other,False,False,5
+502,Bupropion,other,False,False,5
+503,Amiloride,other,False,False,5
+506,Etoricoxib,analgesic,False,False,5
+507,Dactinomycin,other,False,False,5
+508,Esomeprazole,antacid,False,False,5
+509,Hemocoagulase,other,False,False,5
+510,Indomethacin,other,False,False,5
+511,Triamcinolone,other,False,False,5
+512,Ibandronic Acid,other,False,False,5
+514,Melphalan,other,False,False,5
+515,Gatifloxacin,corticosteroid,True,False,12
+516,Lornoxicam,analgesic,False,False,5
+518,Doxofylline,other,False,False,5
+519,Amiloride,diuretic,False,False,5
+521,Montelukast,other,False,False,5
+522,Cefoperazone,other,False,False,5
+523,Faropenem,other,False,False,5
+526,Axitinib,other,False,False,5
+527,Ropinirole,other,False,False,5
+528,Codeine,other,False,False,5
+529,Nortriptyline,other,False,False,5
+530,Zinc Gluconate,other,False,False,5
+533,Zolpidem,other,False,False,5
+534,Diatrizoic Acid,other,False,False,5
+535,Dosulepin,other,False,False,5
+536,Silymarin,other,False,False,5
+538,Itolizumab,other,False,False,5
+539,Captopril,other,False,False,5
+540,Nebivolol,antihypertensive,False,False,5
+542,Etofylline,other,False,False,5
+543,Piracetam,other,False,False,5
+544,Iron Sucrose,other,False,False,5
+545,Sulbactam,other,False,False,5
+546,Entecavir,other,False,False,5
+547,Meloxicam,other,False,False,5
+549,Trypsin Chymotrypsin,other,False,False,5
+551,Mefenamic Acid,other,False,False,5
+553,Neomycin,corticosteroid,True,False,12
+556,Enoxaparin,other,False,False,5
+557,Pegfilgrastim,other,False,True,18
+558,Domperidone,other,False,False,5
+559,Olanzapine,other,False,False,5
+560,Calcium,other,False,False,5
+561,Clobazam,other,False,False,5
+564,Ondansetron,antacid,False,False,5
+565,Nifedipine,other,False,False,5
+568,Glibenclamide,antidiabetic,True,False,12
+570,Ivabradine,other,False,False,5
+571,Chlorthalidone,other,False,False,5
+573,Calcium Citrate Malate,other,False,False,5
+574,Diazepam,other,False,False,5
+576,Rivaroxaban,other,False,False,5
+577,Sodium Valproate,other,False,False,5
+578,Tianeptine,other,False,False,5
+579,Pegaspargase,other,False,False,5
+580,Ethambutol,other,False,False,5
+582,Perindopril erbumine,antihypertensive,False,False,5
+584,Linezolid,other,False,False,5
+587,Choline Theophyllinate,bronchodilator,False,False,5
+588,Cefaclor,other,False,False,5
+589,Chloramphenicol,other,False,False,5
+590,Ebastine,other,False,False,5
+591,Lovastatin,other,False,False,5
+592,Bromhexine,bronchodilator,False,False,5
+593,Cefpodoxime Proxetil,antibiotic,True,False,12
+594,Maraviroc,other,False,False,5
+596,Febuxostat,other,False,False,5
+597,Amrinone,other,False,False,5
+598,Flunarizine,other,False,False,5
+600,Colistimethate Sodium,other,False,False,5
+601,Sunitinib,other,False,False,5
+602,Lactitol,other,False,False,5
+603,Lisinopril,other,False,False,5
+604,Astemizole,other,False,False,5
+605,Loratadine,analgesic,False,False,5
+607,Carboplatin,other,False,False,5
+609,Epirubicin,other,False,False,5
+611,Asenapine,other,False,False,5
+612,Polymyxin B,other,False,False,5
+613,Naphazoline,other,False,False,5
+615,Granisetron,other,False,False,5
+617,Dexmedetomidine,other,False,False,5
+622,Secnidazole,other,False,False,5
+623,Sulfamethoxazole,other,False,False,5
+624,Thalidomide,other,False,False,5
+625,Rasagiline,other,False,False,5
+627,Adrenochrome Monosemicarbazone,other,False,False,5
+628,Minocycline,other,False,False,5
+629,Orlistat,other,False,False,5
+630,Ethamsylate,other,False,False,5
+631,Piperacillin,other,False,False,5
+632,Lornoxicam,other,False,False,5
+634,Etoposide,other,False,False,5
+641,Levosulpiride,other,False,False,5
+655,Cilnidipine,antihypertensive,False,False,5
+685,Pseudoephedrine,antihistamine,False,False,5
+686,Nimesulide,antihistamine,False,False,5
+689,Etizolam,antidepressant,False,False,5
+696,Olmesartan Medoxomil,other,False,False,5
+703,Glibenclamide,other,False,False,5
+710,Moxifloxacin,antibiotic,True,False,12
+721,Acarbose,antidiabetic,True,False,12
+738,Norfloxacin,corticosteroid,True,False,12
+743,Ambroxol,analgesic,False,False,5
+748,Captopril,diuretic,False,False,5
+756,Nebivolol,other,False,False,5
+759,Diclofenac,antacid,False,False,5
+764,Paracetamol,antihistamine,False,False,5
+767,Lisinopril,diuretic,False,False,5
+803,Bromelain,analgesic,False,False,5
+818,Thiocolchicoside,other,False,False,5
+826,Metoprolol Succinate,diuretic,False,False,5
+830,Bromhexine,analgesic,False,False,5
+912,Ketorolac,corticosteroid,True,False,12
+931,Phenylpropanolamine,other,False,False,5
+932,Gentamicin,corticosteroid,True,False,12
+941,Perindopril erbumine,other,False,False,5
+948,Voglibose,antidiabetic,True,False,12
+1026,Metoclopramide,analgesic,False,False,5
+1035,Propranolol,diuretic,False,False,5
+1040,Irbesartan,diuretic,False,False,5
+1068,Nebivolol,diuretic,False,False,5
+1072,Neomycin,other,False,False,5
+1077,Pantoprazole,antibiotic,True,False,12
+1104,Doxofylline,bronchodilator,False,False,5
+1122,Gabapentin,analgesic,False,False,5
+1166,Aspirin,analgesic,False,False,5
+1171,Teneligliptin,antidiabetic,True,False,12
+1172,Salbutamol,antihistamine,False,False,5
+1182,Heparin,analgesic,False,False,5
+1186,Meloxicam,analgesic,False,False,5
+1190,Atropine,corticosteroid,True,False,12
+1201,Empagliflozin,other,False,False,5
+1240,Naproxen,antacid,False,False,5
+1251,Phenylephrine,bronchodilator,False,False,5
+1274,Ondansetron,analgesic,False,False,5
+1297,Acebrophylline,antihistamine,False,False,5
+1308,Fluconazole,corticosteroid,True,False,12
+1318,Fenofibrate,antidiabetic,True,False,12
+1349,Citric Acid,antihistamine,False,False,5
+1383,Indomethacin,analgesic,False,False,5
+1392,Chlorzoxazone,other,False,False,5
+1399,Irbesartan,antihypertensive,False,False,5
+1502,Atorvastatin,antidiabetic,True,False,12
+1508,Phenylephrine,analgesic,False,False,5
+1509,Theophylline,bronchodilator,False,False,5
+1520,Naproxen,analgesic,False,False,5
+1537,Aspirin,antacid,False,False,5
+1540,Tapentadol,analgesic,False,False,5
+1553,Acebrophylline,bronchodilator,False,False,5
+1558,Olopatadine,antihistamine,False,False,5
+1561,Alprazolam,antacid,False,False,5
+1563,Diacerein,analgesic,False,False,5
+1585,Tranexamic Acid,analgesic,False,False,5
+1619,Drotaverine,antacid,False,False,5
+1624,Alprazolam,analgesic,False,False,5
+1668,Paracetamol/Acetaminophen,antihistamine,False,False,5
+1670,Aspirin,antihypertensive,False,False,5
+1674,Sucralfate,antacid,False,False,5
+1679,Sparfloxacin,corticosteroid,True,False,12
+1755,Atorvastatin,antihypertensive,False,False,5

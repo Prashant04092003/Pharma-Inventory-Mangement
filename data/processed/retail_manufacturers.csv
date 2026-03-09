@@ -1,0 +1,872 @@
+manufacturer_id,manufacturer_name
+1,Glaxo SmithKline Pharmaceuticals Ltd
+2,Alembic Pharmaceuticals Ltd
+3,Glenmark Pharmaceuticals Ltd
+4,Sanofi India Ltd
+5,Abbott
+6,Cipla Ltd
+7,Dr Reddy's Laboratories Ltd
+8,Cadila Pharmaceuticals Ltd
+9,USV Ltd
+10,Aristo Pharmaceuticals Pvt Ltd
+11,Torrent Pharmaceuticals Ltd
+12,Mankind Pharma Ltd
+13,Sun Pharmaceutical Industries Ltd
+14,Pfizer Ltd
+15,Alkem Laboratories Ltd
+16,RPG Life Sciences Ltd
+17,Stadmed Pvt Ltd
+18,Jagsonpal Pharmaceuticals Ltd
+19,Lupin Ltd
+20,Samarth Life Sciences Pvt Ltd
+21,Zydus Cadila
+22,J B Chemicals and Pharmaceuticals Ltd
+23,Systopic Laboratories Pvt Ltd
+24,Micro Labs Ltd
+25,Intas Pharmaceuticals Ltd
+26,Elder Pharmaceuticals Ltd
+28,Bharat Serums & Vaccines Ltd
+29,Medley Pharmaceuticals
+31,Apex Laboratories Pvt Ltd
+33,Macleods Pharmaceuticals Pvt Ltd
+34,Tablets India Limited
+35,Biochem Pharmaceutical Industries
+38,Eris Lifesciences Ltd
+39,Care Formulation Labs Pvt Ltd
+40,Indoco Remedies Ltd
+43,Unimarck Pharma India Ltd
+44,Cachet Pharmaceuticals Pvt Ltd
+45,Veritaz Healthcare Ltd
+46,Emcure Pharmaceuticals Ltd
+47,Mac Millon Pharmaceuticals Pvt Ltd
+48,Ipca Laboratories Ltd
+49,Ajanta Pharma Ltd
+50,Morepen Laboratories Ltd
+51,Akumentis Healthcare Ltd
+52,Leeford Healthcare Ltd
+53,Alteus Biogenics Pvt Ltd
+54,Synchem Lab
+55,Oaknet Healthcare Pvt Ltd
+56,Natco Pharma Ltd
+57,Zuventus Healthcare Ltd
+61,Ind Swift Laboratories Ltd
+62,Blue Cross Laboratories Ltd
+63,Ergos Life Sciences
+65,Shine Pharmaceuticals Ltd
+66,AstraZeneca
+67,Panacea Biotec Ltd
+68,Group Pharmaceuticals Ltd
+71,Tas Med India Pvt Ltd
+73,Corona Remedies Pvt Ltd
+74,Albert David Ltd
+77,Ordain Health Care Global Pvt Ltd
+78,FDC Ltd
+79,Wanbury Ltd
+80,Serum Institute Of India Ltd
+83,KC Laboratories
+84,Novartis India Ltd
+86,Unison Pharmaceuticals Pvt Ltd
+89,Overseas Healthcare Pvt Ltd
+92,Franco-Indian Pharmaceuticals Pvt Ltd
+93,Torque Pharmaceuticals Pvt Ltd
+95,Icon Life Sciences
+96,Gujarat Terce Laboratories Ltd
+97,Wockhardt Ltd
+99,Obsurge Biotech Ltd
+104,Neon Laboratories Ltd
+105,Wallace Pharmaceuticals Pvt Ltd
+106,Parasol Laboratories
+108,Sunways India Pvt Ltd
+109,La Renon Healthcare Pvt Ltd
+111,Centaur Pharmaceuticals Pvt Ltd
+112,Indchemie Health Specialities Pvt Ltd
+113,Alniche Life Sciences Pvt Ltd
+116,Pulse Pharmaceuticals
+117,Elixir Life Care Pvt Ltd
+118,Laborate Pharmaceuticals India Ltd
+119,Salud Care India Pvt Ltd
+120,Themis Medicare Ltd
+121,Mylan Pharmaceuticals Pvt Ltd
+124,Foregen Healthcare Ltd
+125,Navil Laboratories Pvt Ltd
+126,Bennet Pharmaceuticals Limited
+127,Cista Medicorp
+129,Khandelwal Laboratories Pvt Ltd
+130,Zeelab Pharmacy Pvt Ltd
+132,Fresenius Kabi India Pvt Ltd
+134,Allenge India
+136,Uniza Healthcare LLP
+137,Bayberry Pharmaceuticals Pvt Ltd
+139,German Remedies
+140,Pharmed Ltd
+142,Zydus Healthcare Limited
+143,Hetero Drugs Ltd
+145,NuLife Pharmaceuticals
+146,Safe Life Care
+149,AN Pharmaceuticals Pvt Ltd
+152,Medimax Pharma
+153,Koye Pharmaceuticals Pvt ltd
+154,Psychotropics India Ltd
+156,Arinna Lifescience Pvt Ltd
+158,Maneesh Pharmaceuticals Ltd
+159,Talent India
+160,Iscon Life Sciences
+163,Pharma Drugs & Chemicals
+166,Shreya Life Sciences Pvt Ltd
+167,Hegde and Hegde Pharmaceutical LLP
+170,Nexkem Pharmaceuticals Pvt Ltd
+171,Aareen Healthcare Pvt Ltd
+172,Avis Lifecare Pvt Ltd
+173,Leben Life Sciences Pvt Ltd
+174,Lincoln Pharmaceuticals Ltd
+176,Orchid Chemicals & Pharmaceuticals Ltd
+178,Indiabulls pharmaceutical ltd
+179,Akme Biotec
+181,Bajaj Pharmaceutical
+184,Rhine Biogenics Pvt Ltd
+185,Inga Laboratories Pvt Ltd
+187,Modi Mundi Pharma Pvt Ltd
+188,S H Pharmaceuticals Ltd
+189,Profic Organic Ltd
+190,Fusion Healthcare Pvt Ltd
+191,Canixa Life Sciences Pvt
+192,Aronex Life Sciences Pvt Ltd
+193,Snu Biocare
+194,Alpic Biotech Ltd
+196,Growmax Medicare Pvt Ltd
+197,Isis Healthcare Pvt Ltd
+198,Sigmund Promedica
+202,Jawa Pharmaceuticals Pvt Ltd
+203,Alpa Laboratories Ltd
+207,Entod Pharmaceuticals Ltd
+209,Anglo-French Drugs & Industries Ltd
+212,Nemi Pharmaceuticles
+213,Bal Pharma Ltd
+215,Brinton Pharmaceuticals Pvt Ltd
+217,Vhb Life Sciences Inc
+218,Lark Laboratories Ltd
+219,Biocon
+222,SBS Biosciences
+227,Austro Labs
+230,Med Manor Organics Pvt Ltd
+232,Sunrest Life Science
+233,Raymed Pharmaceuticals Ltd
+236,Ortin Laboratories Ltd
+237,Kivi Labs Ltd
+240,Synokem Pharmaceuticals Ltd
+242,Jenburkt Pharmaceuticals Ltd
+243,Oyster Labs Ltd
+244,Troikaa Pharmaceuticals Ltd
+245,Linux Laboratories
+246,Fourrts India Laboratories Pvt Ltd
+248,MSN Laboratories
+250,Caplet India Pvt Ltd
+251,Aurum Life Science Pvt Ltd
+254,Aprica Pharmaceuticals Pvt Ltd
+255,Blubell Pharma
+257,Azkka Pharmaceuticals Pvt Ltd
+259,Smart Laboratories Pvt Ltd
+260,Dr. Johns Laboratories Pvt Ltd
+262,Galpha Laboratories Ltd
+263,Sycon Healthcare Pvt Ltd
+267,United Biotech Pvt Ltd
+269,Theogen Pvt Ltd
+270,West-Coast Pharmaceutical Works Ltd
+273,Adonis Laboratories Pvt Ltd
+274,Alester Pharma Pvt Ltd
+275,Geno Pharmaceuticals Ltd
+278,Asterisk Laboratories India Pvt Ltd
+281,Unimarck Healthcare Ltd
+287,Zee Laboratories
+291,Divine Savior Pvt Ltd
+294,Afive Pharma
+297,Knoll Pharmaceuticals Ltd
+300,Seagull Pharmaceutical Pvt Ltd
+302,Intra Life
+304,Synmedic Laboratories
+308,BMW Pharmaco India Pvt. Ltd.
+311,AAR ESS Remedies Pvt Ltd
+312,Acron Pharmaceuticals
+313,Medoz Pharmaceutical Pvt. Ltd
+314,Celon Laboratories Ltd
+318,Klar Sehen Pvt Ltd
+320,Dycine Pharmaceuticals Ltd
+321,Solvate Laboratries Pvt Ltd
+322,PCI Pharmaceuticals
+323,Marsha Pharma Pvt Ltd
+324,East West Pharma
+326,Chemo Healthcare Pvt Ltd
+327,Uniphar Biotech Private Limited
+333,MMC Healthcare Ltd
+334,Biomax Laboratories
+335,Sain Medicaments Pvt Ltd
+336,Crescent Therapeutics Ltd
+338,Affy Pharma Pvt Ltd
+340,Kepler Health Care
+341,Strides shasun Ltd
+342,Medikem Pharmaceuticals
+343,IGP Medventures Pvt Ltd
+344,Olcare Laboratories
+345,Mancare Labs Pvt Ltd
+347,Alvio Pharma
+349,Meridian Medicare Ltd
+351,Algen Healthcare Limited
+353,Lemford Biotech Pvt Ltd
+355,Total Healthcare
+356,Vrevive Medicure Pvt. Ltd.
+357,Three Dots Lifescience
+359,Viilbery Healthcare Pvt Ltd
+360,D D Pharmaceuticals
+364,Healing Pharma India Pvt Ltd
+366,Druto Laboratories
+367,Gold Line
+368,Adley Formulations
+371,Bioworld Pharma
+373,Ikon Remedies Pvt Ltd
+374,Admac Pharma Ltd
+375,Intra Labs India Pvt Ltd
+376,Signova Pharma Pvt Ltd
+377,Pharma Planet India
+379,Mascot Health Series Pvt Ltd
+380,Symbiosis Lab
+381,Mission Research Laboratories Pvt Ltd
+384,Akesiss Pharma Pvt Ltd
+385,La Pharmaceuticals
+388,Haeal Pharma
+390,Parenteral Drugs India Ltd
+391,Green Cross Remedies
+394,Innovative Pharmaceuticals
+396,Atishya Biotech
+398,Fawn Incorporation
+399,Allied Chemicals & Pharmaceuticals Pvt Ltd
+400,Solarium Pharmaceuticals
+401,Biomax Biotechnics Pvt Ltd
+403,Uni-Pex Pharmaceuticals Pvt Ltd
+404,Kivonyx Healthcare
+406,Medicross Pharmaceuticals
+410,Sun Life Sciences Pvt Ltd
+411,Embiotic Laboratories Pvt Ltd
+413,Zenlabs Ethica Ltd
+414,Juggat Pharma
+416,Aurz Pharmaceuticals Pvt Ltd
+417,Aishwarya Healthcare
+421,Bharti Life Sciences
+424,Psychocare Health Pvt Ltd
+428,BestoChem Formulations India Ltd
+432,Mediyork Pharma Pvt Ltd
+433,Nectar Biopharma Pvt Limited
+434,Aan Pharma Pvt Ltd
+436,Primus Remedies Pvt Ltd
+437,Alive Healthcare
+440,Hamax Pharmaceuticals
+441,Excare Laboratories
+442,Divine Lifecare Pvt Ltd
+449,Kopran Ltd
+450,Ozone Pharmaceuticals Ltd
+453,Chethana Pharmaceuticals
+454,Alna Biotech Pvt Ltd
+455,Vibcare Pharma Pvt Ltd
+456,Oxford Pharmaceuticals Pvt Ltd
+457,Nukind Healthcare Pvt Ltd
+461,Dew Drops Lab
+462,Votary Laboratories I Ltd
+463,Finecure Pharmaceuticals Ltd.
+464,Lezaa Biotech
+465,Daksh Pharma Pvt Ltd
+468,Plenteous Pharmaceuticals Ltd
+469,Biophar Lifesciences Pvt Ltd
+470,Prevego Healthcare & Research Private Limited
+474,Lexus Organics
+475,Cure Tech Skincare
+477,Healthkind Labs Pvt Ltd
+478,Alde Medi Impex Ltd
+480,Ardent Life Sciences Pvt Ltd
+481,Pharmatech Healthcare
+482,Astra Labs
+483,Orris Pharmaceuticals
+484,Cascade India Pharmaceuticals
+485,Nilrise Pharmaceuticals Pvt Ltd
+488,Concept Pharmaceuticals Ltd
+489,Ambit Bio Medix
+490,Pinarc Life Sciences
+491,Life Medicare & Biotech Pvt Ltd
+493,Wings Biotech Ltd
+494,Syndicate Life Sciences Pvt Ltd
+496,Innovexia Life Sciences Pvt Ltd
+497,Cadomed Pharmaceuticals Pvt Ltd
+498,MDC Pharmaceuticals Pvt Ltd
+499,Alisier Drugs Pvt Ltd
+502,Syncom Formulations I Limited
+503,Alencure Biotech Pvt Ltd
+505,Arvincare Pharma
+506,Rapross Pharmaceuticals Pvt Ltd
+512,Ethics Health Care Pvt Ltd
+513,Laxian Healthcare
+515,Boots Lifesciences Ltd
+516,Remantra Pharma
+523,Winmac Laboratories Ltd
+524,Lifecare Neuro Products Ltd
+527,Chemo Biological
+528,Radicura Pharma pvt ltd ltd
+531,Kaizen Pharmaceuticals Pvt Ltd
+533,Kenn Pharmaceuticals Pvt Ltd
+536,Abia Pharmaceuticals Pvt. Ltd.
+537,Win-Medicare Pvt Ltd
+539,Vrinda Life
+541,Avyukt Pharmaceuticals
+542,Pharmtak Ophtalmics India Pvt Ltd
+543,Athens Labs Ltd
+544,Fitwel Pharmaceuticals Private Limited
+545,Cubit Healthcare
+546,Ventus Pharmaceuticals Pvt Ltd
+550,Nidus Pharma Pvt Ltd
+551,Matteo Healthcare Pvt Ltd
+552,Drukst Biotech Private Limited
+553,Zenon Healthcare Ltd
+556,Hauz Pharma Pvt Ltd
+557,Psycormedies
+559,Makers Laboratories Ltd
+561,Dolvis Bio Pharma Pvt Ltd
+562,Univentis Medicare Ltd
+563,Sois Formulations Pvt Ltd
+564,Vinca Lifesciences
+565,Mestra Pharma Pvt Ltd
+567,Aster Medipharm Pvt Ltd
+569,Canbro Healthcare
+571,Acme Pharmaceutical
+574,Jarun Pharmaceuticals
+577,Medisync Pharma
+578,Zota Health care Ltd
+580,Sapient Laboratories Pvt Ltd
+583,Roussel Laboratories Pvt Ltd
+584,Universal Micro Sciences
+585,Urochem Biotech
+586,Sunwin Healthcare
+587,Captab Biotec
+589,HiGlance Laboratories
+593,Swiss Pharma Pvt Ltd
+596,Oxpro Pharma Private Limited
+597,Tycoon Pharmaceuticals Pvt Ltd
+598,Meditouch Wellness
+599,Vee Remedies
+600,JV Healthcare
+603,Anthus Pharmaceuticals Pvt Ltd
+604,Marc Laboratories Pvt Ltd
+605,Wonder Healthcare
+606,Indi Pharma
+607,A N Pharmacia
+609,Midas Healthcare Ltd
+610,Gonan Pharma
+612,Biologic Psychotropics India Pvt Ltd
+616,Cubic Lifesciences Private Limited
+617,Nri Vision Care India Limited
+619,Alobiote Healthcare
+623,Medipol Pharmaceuticals India Pvt Ltd
+624,Bill Cure Pharma Pvt Ltd
+626,Jenfer Biosciences Pvt Ltd
+628,Altar Healthcare Pvt Ltd
+629,Positive Medicare Pvt Ltd
+635,Heal India Laboratories
+637,Orlife Healthcare
+638,Bonsai Pharma
+639,Yuventis Pharmaceuticals
+641,Suncruz Pharmaceuticals
+645,Sanity Pharma
+646,Avonic Life Sciences
+648,Sarian Healthcare
+652,Triko Pharmaceuticals
+653,Beulah Biomedics Ltd
+657,Chandra Bhagat Pharma Pvt Ltd
+658,Talent Healthcare
+659,Accilex Nutricorp
+660,Dallas Pharmaceuticals and Formulations Pvt Ltd
+663,Comed Chemicals Ltd
+667,Gnova Biotech
+670,Mcastro Pharma
+671,C M R Life Sciences
+672,Goddres Pharmaceuticals Pvt Ltd
+673,In Med Therapeutics
+677,Medfence Labs
+678,Reliance Formulation Pvt Ltd
+679,Acekinetics Healthcare Pvt Ltd
+680,Sunij Pharma Pvt Ltd
+682,Plena Remedies
+683,Angiolife Healthcare Pvt Ltd
+686,Stenkem Molecules Pvt Ltd
+692,Azine Healthcare Pvt Ltd
+693,Zither Pharmaceutical Pvt Ltd
+694,Abiba Pharmacia Pvt Ltd
+697,Lividus Pharmaceuticals Pvt Ltd
+698,Dynamed Pharmaceuticals Pvt Ltd
+700,Gland Pharma Limited
+702,Truecure Healthcare Private Limited
+707,Medico Healthcare
+708,Dokcare Life Sciences
+710,Scott Edil Pharmacia Ltd
+713,Vintek Pharmaceuticals
+715,Rebanta Health Care (P) Limited
+716,Avalanche Pharmaceuticals
+721,Arrient Healthcare Pvt Ltd
+722,Cian Health Care Pvt Ltd
+723,Monark Biocare Pvt Ltd
+727,Biomorph Lifesciences
+728,Albia Biocare
+730,MPC Pharmaceuticals
+732,Lancer Health Care Pvt Ltd
+734,Johnlee Pharmaceuticals Pvt Ltd
+737,Mclain Laboratories
+738,Symbiosis Life Sciences Limited
+740,Rhombus Pharma Pvt Ltd
+741,Alpha Aromatic Pvt Ltd
+743,Sunroxx Pharma
+744,Ishjas Pharma Pvt Ltd
+745,Abron Healthcare
+749,Metamorf Lifesciences
+751,Intel Pharmaceuticals
+753,Drakt Pharmaceutical Pvt Ltd
+755,Aster Pharma
+759,Superlative Healthcare
+761,Novalife Healthcare
+762,DWD Pharmaceuticals Ltd
+764,Taj Pharma India Ltd
+766,Consern Pharma Limited
+767,Akunez Biotech
+770,Tusker Pharma Pvt Ltd
+771,Pharmasynth Formulations Ltd
+773,Aadi Health Care
+774,Emocare
+775,Organic Laboratories
+776,Integral Lifesciences
+777,Ancalima Lifesciences Ltd
+780,Biosans Lifecare
+781,Bluewaterresearch
+787,Zenith Healthcare Ltd
+790,Biotic Healthcare
+791,Medicure Life Sciences India Pvt Ltd
+792,Baxton Pharmacia
+794,H.L Healthcare Pvt Ltd
+795,Arion Healthcare
+797,Akshita Remedies
+800,Shiron Pharmaceuticals
+803,Sanzyme Ltd
+805,Medihealth Lifesciences Pvt. Ltd.
+807,Creogenic Pharma
+811,Yaxon BioCare Pvt Ltd
+812,Hetero Healthcare Limited
+815,Aventura Healthcare Pvt Ltd
+818,Octane Biotech Pvt Ltd
+822,Edinburgh Pharmaceuticals
+823,Atlantis Formulations Pvt Ltd
+824,Vanguard Therapeutics Pvt Ltd
+825,Cenofi Healthcare Pvt Ltd
+827,Vasu Organics Pvt Ltd
+828,Medilance Healthcare
+833,Varenyam Healthcare Pvt Ltd
+835,Welkind Pharma
+836,Shatayushi Healthcare Pvt Ltd
+838,Amplec Healthcare Pvt. Ltd.
+839,Active Healthcare
+843,Dynamic Laboratories Pvt Ltd
+844,Sterkem Pharma Pvt Ltd
+845,Leo Pharmaceuticals
+847,Vintas Pharmaceuticals Pvt. Ltd.
+848,Lxir Medilabs Pvt Ltd
+850,Alicia Healthcare
+851,Radix Pharmaceuticals
+854,Arlak Biotech Pvt Ltd
+855,Daylon Healthcare
+861,ADZO Lifesciences Pvt Ltd
+863,Suraksha Pharma Pvt Ltd
+866,Abiz Pharma
+870,Lamiaceae Healthcare
+871,Biocore Pharmaceuticals
+872,Medicraft Group
+875,Shrinivas Gujarat Laboratories Pvt Ltd
+876,Lia Life Sciences Pvt Ltd
+877,Hi-Cure Biotech
+878,Nexus Biotech
+880,Medons India
+881,Zyphar's Pharmaceuticals Pvt Ltd
+887,Bioshine Healthcare Pvt Ltd
+888,Assure Pharma
+890,Aeon Remedies
+892,Klokter Life Sciences
+895,Nimbles Biotech Pvt Ltd
+898,Stallion Laboratories Pvt Ltd
+899,Wintech Pharmaceuticals
+901,Biosys Medisciences
+902,Genesis Biotech Inc
+903,Stellar Bio-Labs
+906,Penlon India Pharmaceuticals
+910,Saturn Formulations Pvt Ltd
+913,Axis Life Science Pvt Ltd
+914,Surge Pharmaceuticals Pvt Ltd
+915,Mandevis Pharma
+916,Santo Formulations
+919,Biosync Pharmaceuticals Pvt. Ltd.
+920,Viribus Healthcare
+922,Ritz Pharma
+923,Indizen Pharmaceutical
+926,Ridhima Biocare
+929,Anvik Biotech
+930,Bioethics Lifesciences Pvt Ltd
+932,Symbiosis Pharmaceuticals Pvt Ltd
+934,Globela Pharma Pvt Ltd
+935,Ultra Drugs Pvt Ltd
+937,Crinova Healthcare
+941,Theo Pharma Pvt Ltd
+942,Encyclo Healthcare
+943,Thrift Pharmaceuticals
+946,Dr Alson Laboratories Pvt Ltd
+949,Sara Remedies
+954,CNX Healthcare Pvt Ltd
+955,Pax Healthcare
+957,Doctris Lifesciences
+959,Eden Healthcare Pvt Ltd
+960,Bioceutics Inc
+962,Icarus Healthcare Pvt Ltd
+967,Bombay Tablet Mfg Co Pvt Ltd
+968,LifeCare Formulation Pvt Ltd
+971,Aingo Pharma Pvt Ltd
+981,I.I.F.A Health Care
+982,Vance Health Pharmaceuticals Ltd
+984,Capri Pharmaceuticals
+986,Monokem Labs
+992,Lifepure Labs Pvt Ltd
+994,Patson Laboratories Pvt Ltd
+995,Kyna Pharmaceuticals
+1001,Solace Biotech Ltd
+1006,Medisoft Pharma
+1007,Elcliff Formulations Pvt Ltd
+1008,Logos Pharma
+1009,Eltis Organics
+1015,SAG Health Science Pvt Ltd
+1018,Capital Pharma
+1019,Elkos Healthcare Pvt Ltd
+1021,Treatwell Pharma
+1027,Allen Dale Biosciences
+1031,Tunic Healthcare
+1035,Ellanjey Lifesciences
+1037,H & Care Incorp
+1040,Maverick Pharma Pvt Ltd
+1041,Maksun Biotech Pvt Ltd
+1046,Biocell Pharmaceuticals Pvt Ltd
+1050,Ernst Pharmacia
+1056,Hinglaj Laboratories
+1057,Brostin Seizz Biocare
+1058,Voizmed Pharma Pvt Ltd
+1059,Kontest Chemicals Ltd
+1062,Medios Laboratories Pvt Ltd
+1064,Shrrishti Health Care Products Pvt Ltd
+1076,Mediquest Inc.
+1078,Asvins Lifecare
+1079,Anikem Laboratories
+1083,Mefro Pharmaceuticals Pvt Ltd
+1084,Aamorb Pharmaceuticals Pvt Ltd
+1085,Walberg Pharmaceuticals
+1088,Elite Pharma Pvt Ltd
+1089,Biochemix Health Care Pvt. Ltd.
+1090,TTK Healthcare Ltd
+1092,Astranova Biotech
+1094,S.P Pharmaceuticals
+1096,MHS Pharmaceuticals Pvt Ltd
+1097,Raddison Health Care Pvt Ltd
+1102,Jubilant Life Sciences
+1104,Cadwell Pharma Private Limited
+1106,Ryland Healthcare
+1110,Aconwell Pharma Pvt Ltd
+1111,Farlex Pharmaceuticals Pvt Ltd
+1113,Medishri Healthcare
+1115,Sigman Wellness
+1120,Dewcare Concept Pvt.Ltd.
+1121,American Biocare
+1122,Delwis Healthcare Pvt Ltd
+1127,Mediva Lifecare
+1130,Hiya Lifesciences Pvt Ltd
+1131,Bondane Pharma
+1132,Salveo Lifecare
+1137,Mediwin Pharmaceuticals
+1138,Ambreyo Lifesciences
+1139,Fidelity Lifesciences Pvt Ltd
+1142,Fibovil Pharmaceuticals Pvt Ltd
+1146,Aglowmed Limited
+1147,Addii Biotech Pvt Ltd
+1148,Moxy Laboratories Pvt Ltd
+1151,AS Lifesciences
+1153,Anabolic Remedies Pvt Ltd
+1156,Carise Pharmaceuticals Pvt Ltd
+1162,Serene Lifeworld Pvt Ltd
+1165,Pride Healthcare
+1166,Ampira Biotechnics Pvt Ltd
+1168,Olamic Pharma Pvt. Ltd.
+1171,RKG Pharma
+1172,Aarpik Pharmaceuticals Pvt Ltd
+1176,Jarson Pharmaceuticals
+1178,Willow Pharmaceuticals Pvt Ltd
+1184,RSR Healthcare
+1187,Godase Healthcare
+1188,Deon Healthcare
+1192,Human Biolife India Pvt Ltd
+1195,Lanark Laboratories Pvt Ltd
+1197,Gentech Healthcare Pvt Ltd
+1198,Romas Remedies
+1199,Matins Pharma
+1201,Femgrace Formulations
+1205,Iatros Pharmaceuticals Pvt Ltd
+1208,Health Guard India Pvt Ltd
+1212,Pharmacon Healthcare
+1215,BRD MediLabs
+1217,Zytras Life Sciences
+1218,Rekin Pharma Pvt. Ltd.
+1221,Zennar Life Sciences
+1222,Drug For Life India Pvt Ltd
+1225,Best Biotech
+1226,Park Pharmaceuticals
+1229,Maxx Farmacia (India) Lip
+1230,Anvicure Drugs
+1234,Hos & Ins
+1236,Aretaeus Pharmaceuticals
+1240,Cheminnova Life Sciences
+1243,Stanford Biotech Pvt Ltd
+1245,Avail Healthcare
+1246,Sanify Healthcare Pvt Ltd
+1252,Dial Pharmaceuticals Pvt Ltd
+1255,Indian Drugs & Pharmaceuticals Ltd
+1258,Ranmarc Labs
+1260,Hochest Biotech India
+1261,Colors Life Sciences
+1265,Arkas Pharma Pvt Ltd
+1269,Desta Lifescience
+1277,Rekvina Laboratories Ltd
+1279,Shinto Organics (P) Limited
+1286,Overseas Pharma Pvt Ltd
+1288,Axter Pharmaceuticals Pvt Ltd
+1289,Zoic Lifesciences
+1290,Novogen Captab
+1292,MayGriss Healthcare Pvt. Ltd
+1296,Hilbert Healthcare
+1299,Amzor Healthcare
+1300,Mediarka Lifesciences Pvt Ltd
+1301,Ai Health Care LLP
+1306,Pharvax Biosciences
+1310,Unikind Pharma
+1312,Alvid Biocare
+1313,Saga Laboratories
+1315,Aman Healthcare
+1319,East African (India) Overseas
+1325,Elinor Pharmaceuticals Pvt Ltd
+1326,Elivia Life Sciences Pvt Ltd
+1329,Nova Scotia
+1330,Ampus Life Sciences Ltd
+1331,Esquire Drug House
+1332,Focus Healthcare
+1334,Sanjivani Parenteral Ltd
+1336,Staneil Pharma
+1339,Bennet Mypher Pharmaceuticals LLP
+1341,Proqol Healthcare
+1342,Edward Young Labs
+1345,Texas Pharmaceuticals
+1347,Adison Pharmaceuticals
+1348,Betamax Remedies
+1349,Alter Ego Pharmaceuticals
+1351,Masson Healthcare Pvt Ltd
+1354,Numera Life Sciences
+1355,Zenacts Pharma
+1358,Novus Life Sciences Pvt Ltd
+1359,Zenexa Healthcare
+1361,Caddes Life Sciences
+1362,Salas Pharmaceuticals
+1363,Mayflower India
+1367,Avinash Health Products Pvt Ltd
+1372,SandMartin Pharmaceuticals Pvt Ltd
+1373,Acto Pharma Pvt Ltd
+1375,Coxswain Healthcare
+1380,Nirlife Healthcare
+1381,Biozoc INC
+1384,M.M Pharma
+1385,Kritikos Care
+1386,Meddox Formulations
+1391,Astonea Labs Private Limited
+1395,Nitro Organics
+1396,Magma Allianz Laboratories Ltd
+1405,Noel Pharma India Pvt Ltd
+1407,Vaxova Drugs Pvt Ltd
+1409,Wens Drugs India Pvt Ltd
+1411,Aspo Healthcare
+1415,Biotics Lab Life Services Private Limited
+1417,Metrix Healthcare Pvt Ltd
+1423,Lancer Therapeutics
+1426,Q Check Speciality Care
+1429,Bioaltus Pharmaceuticals Pvt Ltd
+1436,Litaka Pharmaceuticals Ltd
+1442,Agron Remedies Pvt Ltd
+1443,Fortune Labs
+1444,Diues Biotech
+1446,Healthserch Pharma LLP
+1447,Habitare Pharma
+1448,Windlas Biotech Ltd
+1455,Health Care Formulations Pvt Ltd
+1456,Concertina Pharma Pvt Ltd
+1457,Dazzle Healthcare
+1460,Instant Remedies Pvt Ltd
+1462,Mensa Futura Life Sciences Pvt Ltd
+1467,Remedial Healthcare
+1475,Mabril Healthcare Pvt Ltd
+1478,Astam Health Care Pvt Ltd
+1485,Enrico Pharmaceuticals
+1494,Medicamen Biotech Ltd
+1497,Plus India
+1502,Ambromide Pharma Private Limited
+1503,Ikon Pharmachem Pvt Ltd
+1508,Medifaith Biotech
+1509,Medicaid Labs LLP
+1511,Neiss Labs Pvt Ltd
+1512,Associated Biopharma
+1515,Crossford Healthcare
+1516,Radico Remedies
+1517,Aelida Healthcare
+1519,Zedlon Pharmaceuticals
+1522,Healthkey Lifescience Pvt. Ltd.
+1523,Silicon Pharma
+1524,Neuro Pharma GmbH
+1531,Akmed Biotech
+1532,Sarthi Life Sciences
+1536,Venus Remedies Ltd
+1537,Innova Formulations Pvt Ltd
+1540,Vinson pharma
+1543,Invision Medi Sciences Pvt Ltd
+1544,Mediboon Pharma Private Limited
+1547,Apcon Remedies
+1550,Vostok & Wilcure Remedies
+1559,Global Care
+1560,Henin Lukinz Pvt Ltd
+1563,Apostle Remedies
+1565,Mitoch Pharma Pvt Ltd
+1571,Advok Pharmacia Private Limited
+1573,Almatica Pharmaceuticals Private Limited
+1575,Lewis Bioserch Pharma Pvt Ltd
+1576,Orion Biotech Pvt Ltd
+1579,Safe U Pharmaceuticals
+1586,Radius Healthcare Pvt Ltd
+1587,Symbiotic Drugs
+1588,Aden Healthcare
+1590,Arovea Lifesciences Pvt Ltd
+1592,Vsab Healthcare
+1599,Helios Pharmaceuticals
+1601,Evershine Lifesciences Pvt Ltd
+1602,Sansill Formulations
+1603,Pharm Biotech
+1604,Siskan Pharma
+1607,Krishgir Pharmaceuticals Pvt Ltd
+1611,Medilewis Biotech
+1612,Nascent Life Sciences
+1618,Maxnova Healthcare
+1619,Welgenic Pharma
+1620,Tansy Molequle
+1621,Rhophic Health Care
+1622,Grapple Life Sciences Pvt Ltd
+1623,Medivaxia Pharma
+1624,Incepta Pharma
+1625,Briscon Remedies
+1626,Age Biotech
+1627,Servocare Lifesciences Pvt Ltd
+1628,Om Biotec
+1629,Trireme Life Sciences Pvt Ltd
+1631,Sinsan Pharmaceuticals
+1633,Cadell Healthcare Pvt Ltd
+1643,Yodley Life Sciences Private Limited
+1644,Asgard Labs Private Limited
+1647,Atsun Life Sciences
+1648,Agex Laboratories Pvt Ltd
+1653,Riasmo Lifesciences
+1654,Megnesia Neurocare
+1655,Zorion Drugs & Herbs Pvt. Ltd.
+1657,Jantec Pharma
+1661,Scoshia Remedy Inc
+1662,Eridanus Healthcare
+1665,Adenscot Healthcare
+1666,Zegchem
+1669,Bindlysh Biotec Ltd
+1672,Lifekyor Pharmaceuticals
+1674,Trimak Lifesciences
+1676,Medivista Lifesciences Pvt. Ltd.
+1678,Canipla Care
+1679,Anevay Pharmaceuticals Pvt. Ltd.
+1682,Surewin Healthcare
+1684,Acinom Healthcare
+1686,Elfin Pharma Pvt Ltd
+1691,Cure Quick Pharmaceuticals
+1692,Elixir Pharmacon
+1693,Roseate Medicare
+1694,Spencure Biotech Pvt. Ltd.
+1700,Zicad Life Care
+1702,Estrellas Life Sciences Pvt. Ltd.
+1711,Biocare Remedies
+1712,Precise Lifescience
+1715,Krishlar Pharmaceuticals
+1717,Auriga Labs
+1721,Walton Healthcare Pvt. Ltd
+1723,AGIO Pharmaceuticals Ltd
+1727,Zeotec Life Science Pvt Ltd
+1728,Anisum Lifesciences
+1732,Medicil Healthcare
+1736,Vytrax Healthcare
+1738,Positif Life sciences
+1739,Granmed Pharma
+1742,Jasco Labs Pvt Ltd
+1743,Mapra Laboratories Pvt Ltd
+1744,Altrawell Biotech Pvt Ltd
+1745,Gufic Bioscience Ltd
+1746,Carezone Healthcare
+1747,Voopar Sciences Pvt Ltd
+1750,Aarcin Pharmaceutical LLP
+1751,Ani Healthcare Pvt Ltd
+1756,Vitabiotech Healthcare Private Limited
+1757,Helplab Healthcare Pvt Ltd
+1760,MaxQure Labs
+1762,Baroda Pharma Pvt Ltd
+1766,Sristi Pharmaceuticals
+1769,Taurus Laboratories Pvt Ltd
+1771,Shrion Pharmaceuticals
+1772,Epsilon Biotech
+1776,Aanika Pharma
+1777,Gladden Laboratories
+1782,Panm Labs India
+1783,Targof Pure Drugs Td
+1788,Neoliva Formulations
+1789,Biostem pharma Pvt Ltd
+1790,Ultramark Healthcare Pvt Ltd
+1795,Growell Vision
+1802,Ambience Pharma
+1804,Andee Lifesciences
+1807,Catholicon Pharmaceuticals Pvt Ltd
+1808,Mint Life Sciences Pvt Ltd
+1810,R.B. Remedies Pvt Ltd
+1811,Reantis Pharmaceuticals Pvt. Ltd.
+1816,Jemster Healthcare Private Limited
+1817,Venistro Biotech
+1821,Elikem Pharmaceuticals Pvt Ltd
+1822,Iva Healthcare Pvt. Ltd.
+1828,Sunrise Remedies Pvt Ltd
+1829,Tweet India Pharmaceuticals Pvt Ltd
+1832,Medbeat Healthcare
+1835,Geneda Pharma
+1836,Stenzer Healthcare
+1838,Rapidchem Healthcare
+1841,Insta Care Lifescience
+1844,Vanshita Lifecare
+1846,Haledew Remedies
+1847,Apkavit Lifesciences
+1848,PRM Life Sciences Pvt Ltd
+1851,Merril Pharma Pvt Ltd
+1854,Hiral Labs Ltd
+1856,Novique Life Sciences
+1857,Rax Health Care Pvt Ltd
+1860,Oscar Remedies Pvt Ltd
+1865,Dorris Pharmaceutical Pvt Ltd
+1866,Sentosa Geigy (India) Labs Limited
+1869,Future Pharma Pvt Ltd
+1872,Selexia Biotech Private Limited
+1878,Redson Laboratories Pvt Ltd
+1879,Taksa LIfe Sciences
+1886,Glenvox Biotech
