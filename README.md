@@ -1,9 +1,5 @@
 # Pharma-Inventory-Mangement
 
-# Pharma-Inventory-Mangement
-
-# AI-Powered Pharmaceutical Inventory Intelligence System
-
 A ledger-based pharmaceutical inventory backend with a deterministic AI chatbot interface for natural language inventory queries.
 
 This project simulates a production-style pharmaceutical inventory system and demonstrates how an AI assistant can safely interact with structured business data without directly accessing the database.
